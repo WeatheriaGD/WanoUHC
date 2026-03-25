@@ -1,0 +1,83 @@
+name: WanoUHC
+version: 1.0
+author: GameurDuXVI
+main: fr.gameurduxvi.uhc.Main
+commands:
+  uhc:
+    description: One Piece UHC Main Command
+    permission: 
+  commandes:
+    description: WanoUHC Command
+    permission: 
+  doc:
+    description: WanoUHC Command
+    permission: 
+  gdoc:
+    description: WanoUHC Command
+    permission: 
+  final_heal:
+    description: WanoUHC Command
+    permission: uhc.cmd
+  fh:
+    description: WanoUHC Command
+    permission: uhc.cmd
+  revive:
+    description: WanoUHC Command
+    permission: uhc.cmd
+  pause:
+    description: WanoUHC Command
+    permission: uhc.cmd
+  start:
+    description: WanoUHC Command
+    permission: uhc.cmd
+  end:
+    description: WanoUHC Command
+    permission: uhc.cmd
+  roles:
+    description: WanoUHC Command
+    permission: 
+  r:
+    description: WanoUHC Command
+    permission: 
+  spectator:
+    description: WanoUHC Command
+    permission: uhc.cmd 
+  debug:
+    description: WanoUHC Command
+    permission: uhc.cmd
+  pregen:
+    description: WanoUHC Command
+    permission: uhc.cmd
+  info:
+    description: WanoUHC Command
+    permission: uhc.cmd
+  world:
+    description: WanoUHC Command
+    permission: uhc.cmd
+  config:
+    description: WanoUHC Command
+    permission: uhc.cmd
+  trilog:
+    description: WanoUHC Command
+    permission: 
+  texturepack:
+    description: WanoUHC Command
+    permission: 
+  testpack:
+    description: WanoUHC Command
+    permission: 
+  particles:
+    description: WanoUHC Command
+    permission:
+  testparticles:
+    description: WanoUHC Command
+    permission:
+  chat:
+    description: WanoUHC Command
+    permission: uhc.cmd
+  listtexturepack:
+    description: WanoUHC Command
+    permission: uhc.cmd
+  cwhitelist:
+    description: WanoUHC Command
+    permission: uhc.cmd
